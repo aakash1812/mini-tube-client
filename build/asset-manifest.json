@@ -1,0 +1,11 @@
+{
+  "main.js": "/minitube/static/js/main.68b1ce45.chunk.js",
+  "main.js.map": "/minitube/static/js/main.68b1ce45.chunk.js.map",
+  "static/js/1.89498480.chunk.js": "/minitube/static/js/1.89498480.chunk.js",
+  "static/js/1.89498480.chunk.js.map": "/minitube/static/js/1.89498480.chunk.js.map",
+  "runtime~main.js": "/minitube/static/js/runtime~main.6be86645.js",
+  "runtime~main.js.map": "/minitube/static/js/runtime~main.6be86645.js.map",
+  "index.html": "/minitube/index.html",
+  "precache-manifest.8429fb98770b93c284ed2f177caccf84.js": "/minitube/precache-manifest.8429fb98770b93c284ed2f177caccf84.js",
+  "service-worker.js": "/minitube/service-worker.js"
+}
